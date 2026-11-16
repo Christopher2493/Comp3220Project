@@ -5,5 +5,7 @@ Built using JavaFX with Maven, for our [Clinic Appointment Booking System] desig
 
 Members:
 Ayushmaan Roy
+
 Christopher Chalmers
+
 Vince Nguyen Huynh
