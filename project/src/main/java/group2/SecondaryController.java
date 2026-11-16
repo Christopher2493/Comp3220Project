@@ -1,12 +1,16 @@
 package group2;
 
 import java.io.IOException;
+
 import javafx.fxml.FXML;
 
+@SuppressWarnings("unused")
 public class SecondaryController {
-
+    
     @FXML
     private void switchToPrimary() throws IOException {
         App.setRoot("primary");
+
     }
+    
 }
