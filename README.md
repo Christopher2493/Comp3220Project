@@ -10,3 +10,11 @@ Ayushmaan Roy
 Christopher Chalmers
 
 Vince Nguyen Huynh
+
+Usage:
+
+Maven-Template from https://maven.apache.org/ 
+
+SQLite JDBC » 3.44.0.0 from https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.44.0.0 
+
+JavaFX, and Java.SQL
