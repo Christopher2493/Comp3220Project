@@ -18,3 +18,10 @@ Maven-Template from https://maven.apache.org/
 SQLite JDBC » 3.44.0.0 from https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.44.0.0 
 
 JavaFX, and Java.SQL
+
+Build & Run:
+
+Requires JDK 17+ and Maven.
+
+    cd project
+    mvn clean javafx:run
